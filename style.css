@@ -15,3 +15,7 @@ table, th, td {
     border: 1px solid;
     border-collapse: collapse;
 }
+
+img {
+    width: 500px;
+}
