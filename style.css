@@ -1,0 +1,17 @@
+body {
+    background-color: #f1f1f1;
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+    font-family: 'Lexend Deca', sans-serif; 
+    color: #353535;
+}
+
+h1 {
+    color:#ff9696;
+}
+
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+}
